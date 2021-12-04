@@ -4,7 +4,6 @@ Repositório criado para completar o Desafio de Projeto da DIO.ME
 ## Link Úteis
 
 - **Tudo sobre FalvoJr Orientador do Desafio da DIO.ME**<br>
-
 ***Venilton FalvoJr***<br>
 *Tech Lead na DIO*<br>
 [Perfil Linkedin do Professor FalvoJr](https://linkedin.com/in/falvojr)<br>
